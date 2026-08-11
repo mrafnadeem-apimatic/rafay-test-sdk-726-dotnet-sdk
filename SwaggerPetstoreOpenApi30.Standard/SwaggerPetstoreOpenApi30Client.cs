@@ -38,7 +38,7 @@ namespace SwaggerPetstoreOpenApi30.Standard
 
         private readonly GlobalConfiguration globalConfiguration;
         private SdkLoggingConfiguration sdkLoggingConfiguration;
-        private const string userAgent = "DotNet-SDK/1.1.5 (OS: {os-info}, Engine: {engine}/{engine-version})";
+        private const string userAgent = "DotNet-SDK/1.1.6 (OS: {os-info}, Engine: {engine}/{engine-version})";
         private readonly HttpCallback httpCallback;
         private readonly Lazy<PetApi> pet;
         private readonly Lazy<StoreApi> store;
