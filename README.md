@@ -20,11 +20,11 @@ Find out more about Swagger: [https://swagger.io](https://swagger.io)
 If you are building with .NET CLI tools then you can also use the following command:
 
 ```bash
-dotnet add package RafayTest726SDK --version 1.1.6
+dotnet add package RafayTest726SDK --version 1.1.7
 ```
 
 You can also view the package at:
-https://www.nuget.org/packages/RafayTest726SDK/1.1.6
+https://www.nuget.org/packages/RafayTest726SDK/1.1.7
 
 ## Initialize the API Client
 
